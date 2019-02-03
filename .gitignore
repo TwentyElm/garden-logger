@@ -1,0 +1,4 @@
+*~
+
+# Ignore any npm libs
+*/node_modules
